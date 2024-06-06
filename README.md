@@ -42,4 +42,5 @@ Python e Tableau
 Progetto che mira a portare un'agenzia di viaggi nel Metaverso, analizzando i dati dell'anno precedente quali trend, preferenze dei clienti e modelli di comportamento con Python, riportandoli in seguito su dashboards interattive utilizzando Tableau. L'obiettivo finale è quello di fornire una visione chiara delle opportunità di mercato nel metaverso e di sviluppare nuove strategie mirate alla soddisfazione dei clienti. 
 
 Link Python: https://github.com/KevinCriscuolo/kevin-s_porfolio/blob/main/Progetto%20Finale%20Data%20Analysis%20Python.ipynb
+
 Link Tableau Public: https://github.com/KevinCriscuolo/kevin-s_porfolio/blob/main/Progetto%20Finale%20Data%20Analysis%20Tableau.pdf
