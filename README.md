@@ -20,7 +20,6 @@ Strumenti di BI: Esperienza con strumenti come Tableau per la creazione di dashb
 #1 Progetto:
 SQL
 Questo progetto mette a confronto vari stili di vita in diversi paesi sulla base di determinate variabili.
-
 Link: https://github.com/KevinCriscuolo/kevin-s_porfolio/blob/main/sql
 
 
@@ -28,7 +27,6 @@ Link: https://github.com/KevinCriscuolo/kevin-s_porfolio/blob/main/sql
 #2 Progetto
 Python
 Progetto volto alla creazione e finalizzazione di una nuova app da lanciare sul mercato online attraverso piattaforma Google Store, analizzando dati specifici quali rating, review, prezzo e categoria delle applicazioni già presenti e visionabili sul medesimo store. 
-
 Link: https://github.com/KevinCriscuolo/kevin-s_porfolio/blob/main/Python.ipynb
 
 
@@ -36,7 +34,6 @@ Link: https://github.com/KevinCriscuolo/kevin-s_porfolio/blob/main/Python.ipynb
 #3 Progetto
 Tableau
 Progetto volto alla produzione di uno show che promuova valori di inclusività, empowerment e altre tematiche di impatto sociale e ambientale, utilizzando i dati della piattaforma Netflix per creare delle dashboards.
-
 Link: https://github.com/KevinCriscuolo/kevin-s_porfolio/blob/main/Progetto%20Data%20Visualization%20con%20Tableau.pdf
 
 
