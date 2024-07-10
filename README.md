@@ -6,9 +6,13 @@ Excel, SQL, Python e Tableau
 
 
 Analisi dei Dati: Abile nell'utilizzo di librerie Python come Pandas e NumPy per manipolare e analizzare dati.
+
 Visualizzazione dei Dati: Competente nella creazione di grafici informativi e interattivi con Matplotlib.
+
 Machine Learning: Conoscenza delle principali tecniche di machine learning e utilizzo di Scikit-learn per costruire modelli predittivi.
+
 SQL: Abilità nel lavorare con database relazionali e nell'eseguire query complesse per estrarre informazioni chiave.
+
 Strumenti di BI: Esperienza con strumenti come Tableau per la creazione di dashboard interattive.
 
 
